@@ -1,6 +1,5 @@
 # ADAccountDetectionReport
 Finds AD accounts, and generates an excel report
-TAG:  PowerShell, Active Directory, AD contact, AD users, AD, Termination, Detection, Search, Find, Users, Contacts
 
 This article will outline how to use the PowerShell script that was written to help detect AD users or contacts. This script is called ADScan.ps1 and it's stored on the J Drive. The specific file location is here: J:\Scripts\ADDetection. You do not need an be an administrator to utilise the script.
 
